@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Simran Tyagi
 
-🎓 B.Tech | Aspiring Software Engineer | Govt Exam Aspirant  
-💻 Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, MongoDB  
+🎓 B.Tech | Aspiring Software Engineer | Full stack development
+💻 Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, MongoDB, DSA in java
 🎯 Currently learning: MERN Stack + DSA + Aptitude  
 🎨 Hobbies: Painting, Crafting, Meditation
 

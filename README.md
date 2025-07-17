@@ -5,6 +5,9 @@
 🎯 Currently learning: MERN Stack + DSA + Aptitude  
 🎨 Hobbies: Painting, Crafting, Meditation
 
+## 🌟 Projects
+
+- ✨ [NFT Marketplace](https://github.com/SimranTyagi913/your-repo-link)
 
 ### 📊 GitHub Stats
 ![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrantyagi&show_icons=true&theme=radical)

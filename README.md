@@ -8,7 +8,6 @@
 
 ### 📊 GitHub Stats
 ![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrantyagi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simrantyagi&layout=compact)
 
 ---
 

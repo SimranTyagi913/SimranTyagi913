@@ -7,7 +7,7 @@
 
 ## 🌟 Projects
 
-- ✨ [NFT Marketplace](https://github.com/SimranTyagi913/your-repo-link)
+- ✨ [NFT Marketplace](https://github.com/SimranTyagi913/NFT-Marketplace)
 
 ### 📊 GitHub Stats
 ![Simran's GitHub stats](https://github-readme-stats.vercel.app/api?username=simrantyagi&show_icons=true&theme=radical)
